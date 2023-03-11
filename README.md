@@ -10,10 +10,11 @@ Wpisując swoje organizationName oraz OrganizationCity
 
 Można podmienić logo i favicon podmieniając wartości w:
 
---<link rel="icon" type="image/ico" href="/images/favicon.ico"/ >
+--<-link rel="icon" type="image/ico" href="/images/favicon.ico"/ >
   
---<img src="https://sand.pl/images/logo_21.png" alt="Szpital w Sandomierzu" class="responsive"/>
+--<-img src="https://sand.pl/images/logo_21.png" alt="Szpital w Sandomierzu" class="responsive"/>
 
+Działające rozwiązanie można podejrzeć na: https://sand.pl/ezamowienia.php 
 
 Zapraszam do korzystania ;)
 Pozdrawiam
