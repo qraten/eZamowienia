@@ -22,7 +22,8 @@ $json=file_get_contents("https://ezamowienia.gov.pl/mp-readmodels/api/Search/Sea
 $data =  json_decode($json);
 
 //print_r($data);
-
+//realizacja caparo.pl Robert Kurosz
+//można wykorzystywać i przerabiać bez ograniczeń
 
 echo "<div ><table class='table table-striped table-hover'>";
         echo "<thead><tr>";
